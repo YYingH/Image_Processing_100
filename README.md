@@ -1,7 +1,7 @@
 # Image_Processing_100
 
 
-### [Question1 - 10]
+#### [Question1 - 10] (https://github.com/YYingH/Image_Processing_100/blob/master/Question1_10.ipynb)
 
 - [x] Channel swapping
 - [x] Grayscale
@@ -14,36 +14,3 @@
 - [ ] Gaussian Filter
 - [ ] Median Filter
 
-### [Question11 - 20]
-
-
-
-### [Question21 - 30]
-
-
-
-### [Question31 - 40]
-
-
-
-### [Question41 - 50]
-
-
-
-### [Question51 - 60]
-
-
-
-### [Question61 - 70]
-
-
-
-### [Question71 - 80]
-
-
-
-### [Question81 - 90]
-
-
-
-### [Question91 - 100]
