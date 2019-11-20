@@ -11,6 +11,6 @@
 - [x] Discretization of Color
 - [x] Average Pooling
 - [x] Max Pooling
-- [ ] Gaussian Filter
-- [ ] Median Filter
+- [x] Gaussian Filter
+- [x] Median Filter
 
