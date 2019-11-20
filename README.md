@@ -14,3 +14,16 @@
 - [x] Gaussian Filter
 - [x] Median Filter
 
+
+#### [Question11 - 20]
+
+- [x] Smoothing Filter
+- [x] Motion Filter
+- [ ] Max-Min Filter
+- [ ] Differential Filter
+- [ ] Sobel Filter
+- [ ] Prewitt Filter
+- [ ] Laplacian Filter
+- [ ] Emboss Filter
+- [ ] LoG Filter
+- [ ] Histogram Display
