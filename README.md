@@ -19,11 +19,11 @@
 
 - [x] Smoothing Filter
 - [x] Motion Filter
-- [ ] Max-Min Filter
-- [ ] Differential Filter
-- [ ] Sobel Filter
-- [ ] Prewitt Filter
-- [ ] Laplacian Filter
+- [x] Max-Min Filter
+- [x] Differential Filter
+- [x] Sobel Filter
+- [x] Prewitt Filter
+- [x] Laplacian Filter
 - [ ] Emboss Filter
 - [ ] LoG Filter
 - [ ] Histogram Display
