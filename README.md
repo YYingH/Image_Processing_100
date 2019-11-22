@@ -24,6 +24,6 @@
 - [x] Sobel Filter
 - [x] Prewitt Filter
 - [x] Laplacian Filter
-- [ ] Emboss Filter
-- [ ] LoG Filter
-- [ ] Histogram Display
+- [x] Emboss Filter
+- [x] LoG Filter
+- [x] Histogram Display
