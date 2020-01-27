@@ -27,3 +27,7 @@
 - [x] Emboss Filter
 - [x] LoG Filter
 - [x] Histogram Display
+
+
+#### [Question21 - 30] (https://github.com/YYingH/Image_Processing_100/blob/master/Question21_30.ipynb)
+
